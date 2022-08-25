@@ -1,0 +1,5 @@
+open a terminal, navigate to the directory where everything is and execute the following:
+
+pip install -r requirements.txt
+
+streamlit run COVID_Pandemic_project.py
